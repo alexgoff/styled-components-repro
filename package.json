@@ -6,9 +6,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@rubin-epo/epo-react-lib": "^1.2.6",
     "next": "canary",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.2.2",
+    "styled-components": "^6.0.0-rc.1"
   },
   "devDependencies": {
     "@types/node": "^18.11.13",
